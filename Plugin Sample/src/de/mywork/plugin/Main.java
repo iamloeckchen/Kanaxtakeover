@@ -40,7 +40,7 @@ public final class Main extends JavaPlugin {
 	public void loadCommands() {
 		
 		
-		this.getCommand("lucie").setExecutor(commands);
+		this.getCommand("opfer").setExecutor(commands);
 		
 		System.out.println("all commands registered and loaded");
 		
