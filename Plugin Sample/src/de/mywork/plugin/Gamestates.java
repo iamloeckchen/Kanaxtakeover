@@ -20,7 +20,6 @@ public enum Gamestates {
 	 */
 	
 	
-	//L
 	Lobby,
 	Start,
 	Pause,
