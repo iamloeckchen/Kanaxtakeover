@@ -4,7 +4,13 @@ public enum Gamestates {
 		
 	/*
 	 * Enums sind wie boolean,
-	 * sie hier den Status eines Minigames zb
+	 * sie stellen hier den Status eines Minigames zb dar.
+	 * 
+	 * Lobby ist der erste Status.
+	 * Die Spieler sind während der Lobbyphase beispielsweise nicht verwundbar, 
+	 * müssen aber wenn das Spiel beginnt verwundbar sein.
+	 * 
+	 * 
 	 * 
 	 * 
 	 * 
@@ -13,6 +19,8 @@ public enum Gamestates {
 	 * 
 	 */
 	
+	
+	//L
 	Lobby,
 	Start,
 	Pause,
