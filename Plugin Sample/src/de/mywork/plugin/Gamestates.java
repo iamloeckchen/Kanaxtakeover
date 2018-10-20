@@ -6,6 +6,7 @@ public enum Gamestates {
 	Lobby,
 	Start,
 	Pause,
-	End;
+	End,
+	Test;
 	
 }
