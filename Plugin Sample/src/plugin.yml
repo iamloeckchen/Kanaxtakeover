@@ -1,0 +1,9 @@
+name: SamplePlugin
+description: Just a simple sample plugin
+author: Elias Alioui
+main: de.mywork.plugin.Main
+version: 1.0
+commands:
+   opfer:
+      description: Just a sample
+      usage: /opfer
