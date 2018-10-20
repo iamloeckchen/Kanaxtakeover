@@ -8,7 +8,7 @@ public enum Gamestates {
 	 * 
 	 * Lobby ist der erste Status.
 	 * Die Spieler sind während der Lobbyphase beispielsweise nicht verwundbar, 
-	 * müssen aber wenn das Spiel beginnt verwundbar sein.
+	 * müssen aber wenn das Spiel beginnt verwundbar werden.
 	 * 
 	 * 
 	 * 
